@@ -260,3 +260,13 @@ main {
   border: 1px dotted cadetblue;
   text-align: center;
 }
+
+.singleItem {
+  display: flex;
+  justify-content: space-evenly;
+  box-shadow: var(--shadow-3);
+}
+
+.completed {
+  text-decoration: line-through;
+}
