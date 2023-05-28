@@ -253,3 +253,10 @@ ul {
   margin-top: 1rem;
 }
 /* ============= PROJECT CSS =============== */
+
+main {
+  margin: 5rem auto;
+  max-width: 700px;
+  border: 1px dotted cadetblue;
+  text-align: center;
+}
